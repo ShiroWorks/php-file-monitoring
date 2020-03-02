@@ -1,0 +1,11 @@
+{
+  "name": "tc/php-watch-files",
+  "description": "Monitor file or folder and execute code when something is changes inside",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "tc\\fswatcher\\": "src//"
+    }
+  }
+}
