@@ -1,6 +1,6 @@
 # php-file-monitoring
 
-Watch file or folder and execute code when something is changed inside
+Monitor file or folder and execute code when something is changed inside
 
 ### Demo
 
